@@ -79,8 +79,10 @@
 
 ---
 
-[![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-dev-arch&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mirza-dev-arch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirza-dev-arch" />
 </p>
+
+
