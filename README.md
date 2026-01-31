@@ -2,8 +2,6 @@
 
 🎓 Student | Aspiring AI Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mirza-dev-arch" alt="Mirza-dev-arch" /></a> </p>
-
 I'm a student exploring **Artificial Intelligence and Machine Learning**.   
 Currently focused on learning step by step, & building strong foundations in programming and AI concepts, while documenting my progress here on GitHub and tracking my progress.
 
