@@ -1,6 +1,6 @@
 # Hey there! I'm Mirza 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=3000&&color=1582DCFF&background=0E0E0E00&center=true&vCenter=true&width=500&lines=%F0%9F%8E%93+Student+%7C+Aspiring+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=3000&&color=DCA806FF&background=0E0E0E00&center=true&vCenter=true&width=500&lines=%F0%9F%8E%93+Student+%7C+Aspiring+AI+Engineer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&&color=81899A&background=0E0E0E00&center=true&vCenter=true&multiline=true&width=500&lines=I'm+a+student+exploring+Artificial+Intelligence+and+Machine+Learning.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&&color=81899A&background=0E0E0E00&vCenter=true&multiline=true&width=500&lines=Building+solid+foundations+in+programming+%26+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
