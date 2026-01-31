@@ -26,12 +26,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=%E2%9C%A8+This+profile+will+grow+as+I+grow.;+Your+guidance+and+appreciation+are+all+that+matter.;Thanks+for+Stoping+by%E2%9C%A8)](https://git.io/typing-svg)
 
-###  Tech Stack
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://github.com/Mirza-dev-arch" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/000000" width="40" height="40" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
@@ -41,36 +40,36 @@
 
 <!-- Row 1 -->
 <p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/fastapi/000000" width="40" height="40" alt="FastAPI"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/gradio/000000" width="40" height="40" alt="Gradio"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/huggingface/000000" width="40" height="40" alt="Hugging Face"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/jupyter/000000" width="40" height="40" alt="Jupyter"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/keras/000000" width="40" height="40" alt="Keras"/></a>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gradio/FF7C00" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
 </p>
 
 <!-- Row 2 -->
 <p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/langchain/000000" width="40" height="40" alt="LangChain"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/matplotlib/000000" width="40" height="40" alt="Matplotlib"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/mlflow/000000" width="40" height="40" alt="MLflow"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/numpy/000000" width="40" height="40" alt="NumPy"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="Ollama"/></a>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ollama" width="40" height="40"/>
 </p>
 
 <!-- Row 3 -->
 <p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/opencv/000000" width="40" height="40" alt="OpenCV"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/pandas/000000" width="40" height="40" alt="Pandas"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/python/000000" width="40" height="40" alt="Python"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/pytorch/000000" width="40" height="40" alt="PyTorch"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/scikitlearn/000000" width="40" height="40" alt="Scikit-Learn"/></a>
+  <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/>
 </p>
 
 <!-- Row 4 -->
 <p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/seaborn/000000" width="40" height="40" alt="Seaborn"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/streamlit/000000" width="40" height="40" alt="Streamlit"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/tensorflow/000000" width="40" height="40" alt="TensorFlow"/></a>
+  <img src="https://cdn.simpleicons.org/seaborn" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/>
 </p>
 
 ---
@@ -86,8 +85,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirza-dev-arch" />
 </p>
-
-
-
-
-
