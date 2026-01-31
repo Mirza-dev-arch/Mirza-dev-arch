@@ -51,24 +51,24 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="42"/>
 </p>
 
+<h3 align="center">Tools & Libraries</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kaggle" width="42"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tensorflow" width="42"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" width="42"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=seaborn" width="42"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" width="42"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=keras" width="42"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=keras" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" width="42"/>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" width="42"/>
+</p>
+
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mirza-dev-arch&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirza-dev-arch&show_icons=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirza-dev-arch" />
