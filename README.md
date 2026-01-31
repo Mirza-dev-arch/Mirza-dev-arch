@@ -30,46 +30,63 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://github.com/Mirza-dev-arch" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40" alt="GitHub"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="42" height="42" />
+    </picture>
   </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
-
-<!-- Row 1 -->
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/gradio/FF7C00" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" width="42" height="42"/>
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="42" height="42"/>
+  </picture>
 </p>
 
-<!-- Row 2 -->
+<h3 align="center">Familiar Coding Platforms</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/ollama" width="40" height="40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jupyter&theme=dark">
+    <img src="https://skillicons.dev/icons?i=jupyter&theme=light" width="42"/>
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="42"/>
+  </picture>
 </p>
 
-<!-- Row 3 -->
+<h3 align="center">Tools & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kaggle&theme=dark"><img src="https://skillicons.dev/icons?i=kaggle&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow&theme=dark"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=matplotlib&theme=dark"><img src="https://skillicons.dev/icons?i=matplotlib&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=seaborn&theme=dark"><img src="https://skillicons.dev/icons?i=seaborn&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark"><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=keras&theme=dark"><img src="https://skillicons.dev/icons?i=keras&theme=light" width="42"/></picture>
 </p>
 
-<!-- Row 4 -->
 <p align="center">
-  <img src="https://cdn.simpleicons.org/seaborn" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mlflow&theme=dark"><img src="https://skillicons.dev/icons?i=mlflow&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=langchain&theme=dark"><img src="https://skillicons.dev/icons?i=langchain&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=numpy&theme=dark"><img src="https://skillicons.dev/icons?i=numpy&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pandas&theme=dark"><img src="https://skillicons.dev/icons?i=pandas&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ollama&theme=dark"><img src="https://skillicons.dev/icons?i=ollama&theme=light" width="42"/></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="42"/></picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=scikitlearn&theme=dark">
+    <img src="https://skillicons.dev/icons?i=scikitlearn&theme=light" width="42"/>
+  </picture>
 </p>
 
 ---
