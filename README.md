@@ -79,7 +79,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mirza-dev-arch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirza-dev-arch" />
