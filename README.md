@@ -1,37 +1,27 @@
 # Hey there! I'm Mirza 👋 
 
-🎓 Student | Aspiring AI Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&width=500&lines=%F0%9F%8E%93+Student+%7C+Aspiring+AI+Engineer)](https://git.io/typing-svg)
 
-I'm a student exploring **Artificial Intelligence and Machine Learning**.   
-Currently focused on learning step by step, & building strong foundations in programming and AI concepts, while documenting my progress here on GitHub and tracking my progress.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=13&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&width=500&lines=I'm+a+student+exploring+Artificial+Intelligence+and+Machine+Learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&width=500&lines=Currently+focused+on+learning+step+by+step%2C+%26+building+strong+foundations+in+programming+and+AI+concepts.+;While+documenting+my+progress+here+on+GitHub+and+tracking+my+progress.)](https://git.io/typing-svg)
 
 ### 🌱 Currently Learning
-- Learning Python for AI
-- Exploring Machine Learning basics
-- Data handling basics
-- Experimenting with small projects
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&width=500&lines=-+Learning+Python+for+AI;-+Exploring+Machine+Learning+basics;-+Data+handling+basics;-+Experimenting+with+small+projects)](https://git.io/typing-svg)
 
 ### 🛠 Tools & Tech Stack (So Far)
-- Python
-- Git & GitHub
-- Jupyter Notebook
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&width=500&lines=-+Python+++-+Git+%26+GitHub+++-+Jupyter+Notebook)](https://git.io/typing-svg)
 
 ### 🧠 Interests
-- Artificial Intelligence
-- Data & Algorithms
-- Technology & Innovation
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&width=500&lines=-+Artificial+Intelligence+++-++Data+%26+Algorithms+++-+Technology+%26+Innovation+)](https://git.io/typing-svg)
 
 ### 📈 What’s Next?
-- Deep Learning basics
-- Real-world AI projects
-- Better coding habits
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&width=500&lines=-+Deep+Learning+basics;-+Real-world+AI+projects+;-+Better+coding+habits)](https://git.io/typing-svg)
 
 ### 🎯 Future Goals
-- Build AI-based projects
-- Contribute to open-source
-- Pursue a career in AI
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&width=500&lines=-+Build+AI-based+projects+;-+Contribute+to+open-source+;-+Pursue+a+career+in+AI)](https://git.io/typing-svg)
 
-✨ This profile will grow as I grow. Your guidance and appreciation are all that matter.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3000&pause=1000&color=FFFFFF&background=2C2C2C00&width=500&lines=%E2%9C%A8+This+profile+will+grow+as+I+grow.+Your+guidance+and+appreciation+are+all+that+matter.)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
