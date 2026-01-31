@@ -47,7 +47,7 @@
 
 <h3 align="center">Familiar Coding Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="42"/>
 </p>
 
@@ -56,16 +56,27 @@
   <img src="https://skillicons.dev/icons?i=kaggle" width="42"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tensorflow" width="42"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" width="42"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=keras" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="42"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=scikitlearn" width="42"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gradio/FF7C00" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="42"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="42"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama" width="42"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=opencv" width="42"/>
 </p>
+
 
 
 ---
