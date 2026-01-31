@@ -9,19 +9,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&vCenter=true&multiline=true&width=500&lines=-------------------------------------------------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
 ### 🌱 Currently Learning
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Learning+Python+for+AI+;Exploring+Machine+Learning+basics+Data+handling+basics+;Experimenting+with+small+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=11&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Learning+Python+for+AI+;Exploring+Machine+Learning+basics+Data+handling+basics+;Experimenting+with+small+projects)](https://git.io/typing-svg)
 
 ### 🛠 Tools & Tech Stack (So Far)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=~+Python++;~+Git+%26+GitHub+;~+Jupyter+Notebook)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=11&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=~+Python++;~+Git+%26+GitHub+;~+Jupyter+Notebook)](https://git.io/typing-svg)
 
 ### 🧠 Interests
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Artificial+Intelligence+;Data+%26+Algorithms+;Technology+%26+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=11&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Artificial+Intelligence+;Data+%26+Algorithms+;Technology+%26+Innovation)](https://git.io/typing-svg)
 
 ### 📈 What’s Next?
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Deep+Learning+basics+;Real-world+AI+projects+;Better+coding+habits)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=11&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Deep+Learning+basics+;Real-world+AI+projects+;Better+coding+habits)](https://git.io/typing-svg)
 
 ### 🎯 Future Goals
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Build+AI-based+projects+;Contribute+to+open-source+;Pursue+a+career+in+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=11&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=Build+AI-based+projects+;Contribute+to+open-source+;Pursue+a+career+in+AI)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=FFFFFF&background=2C2C2C00&center=true&vCenter=true&multiline=true&width=500&lines=%E2%9C%A8+This+profile+will+grow+as+I+grow.;+Your+guidance+and+appreciation+are+all+that+matter.;Thanks+for+Stoping+by%E2%9C%A8)](https://git.io/typing-svg)
