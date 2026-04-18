@@ -2,7 +2,7 @@
 
 <img src="assets/images/professional-banner.png" 
      width="100%" 
-     style="max-width: 850px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); margin-bottom: 25px;" 
+     style="max-width: 850px; border-radius: 32px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); margin-bottom: 25px;" 
      alt="Mirza - BS AI Student | Professional Banner">
 
 </div>
