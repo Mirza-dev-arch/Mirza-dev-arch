@@ -73,3 +73,18 @@ Feel free to explore my learning journey below 👇
 I’m always open to feedback, collaboration, and connecting with fellow AI enthusiasts.
 
 ---
+
+
+
+---
+
+## 🐍 My Contribution Graph Snake
+
+The snake eats my daily contributions!  
+(Updates automatically every day)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mirza-dev-arch/Mirza-dev-arch/main/assets/images/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mirza-dev-arch/Mirza-dev-arch/main/assets/images/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Mirza-dev-arch/Mirza-dev-arch/main/assets/images/github-contribution-grid-snake.svg" style="max-width: 100%; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.2);">
+</picture>
